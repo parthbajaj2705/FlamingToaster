@@ -4,7 +4,7 @@
 
 ### A passionate frontend developer and competitive gamer from India
 
-<img src="https://github.com/user-attachments/assets/e62e197f-4ffd-4983-b3d1-9c84bc93ab85" alt="Retro Gaming Banner" width="100%" />
+<img width="1920" height="1080" alt="fisnfas5ip7c1" src="https://github.com/user-attachments/assets/c98d385b-a406-41ed-a833-5e869485e1ec" />
 
 </div>
 
